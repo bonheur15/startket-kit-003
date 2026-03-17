@@ -1,4 +1,4 @@
-# Uaway Starter
+# Starter Kit 003
 
 Minimal Next.js starter kit with Auth.js v5, Drizzle ORM, Postgres, Google OAuth, email/password auth, and magic links sent through HubMail.
 
